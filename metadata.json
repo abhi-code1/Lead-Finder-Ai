@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lead Finder AI",
+  "description": "Universal AI-powered lead generation, filtering, and outreach automation platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
